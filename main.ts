@@ -1,6 +1,14 @@
 /**
- * This is a simple module that prints a greeting.
  * @module
+ *
+ * This is a simple module that prints a greeting.
+ *
+ * @example
+ * ```ts
+ *  import * as mod from "./main.ts";
+ *
+ * console.log(mod.helloDeno());
+ * ```
  */
 
 /** Prints a greeting. */
